@@ -1,0 +1,25 @@
+{
+  "name": "skyer-wechat-oauth-component",
+  "version": "0.0.1",
+  "description": "skyer wechat oauth component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/wechat-oauth-component.git"
+  },
+  "keywords": [
+    "skyer",
+    "wechat",
+    "oauth",
+    "component"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/wechat-oauth-component/issues"
+  },
+  "homepage": "https://github.com/skyerjs/wechat-oauth-component#readme"
+}
